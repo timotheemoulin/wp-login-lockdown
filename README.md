@@ -1,7 +1,7 @@
 # Login LockDown
 
 - Developer (v1): [Login LockDown on WordPress.org](https://fr.wordpress.org/plugins/login-lockdown/)
-- Developer: Timothée Moulin (timothee.moulin@gmail.com)
+- Developer: Timothée Moulin
 - Tags: security, login, login form
 - License: GNU Version 2
 - Requires at least: 3.6
