@@ -1,9 +1,12 @@
 === Login LockDown ===
 Developer: Michael VanDeMar (michael@endlesspoetry.com)
+Developer: Timothée Moulin (timothee.moulin@gmail.com)
 Tags: security, login, login form
+License: GNU Version 2
 Requires at least: 3.6
-Tested up to: 5.2.3
-Stable Tag: 1.8.1
+Tested up to: 5.4.1
+Stable Tag: 2.0.0
+PHP version: > 5.6, tested up to 7.4
 
 Limits the number of login attempts from a given IP range within a certain time period.
 
@@ -25,6 +28,11 @@ via the Options panel. Administrators can release locked out IP ranges manually 
 Enjoy.
 
 == Change Log ==
+
+ ver. 2.0.0 14-May-2020
+
+ - code refactor and follow some WP CS convention
+ - add French translation
 
  ver. 1.8.1 30-Sep-2019
 
