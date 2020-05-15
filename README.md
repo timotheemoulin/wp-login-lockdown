@@ -1,13 +1,13 @@
 # Login LockDown
 
-Developer: Michael VanDeMar (michael@endlesspoetry.com)
-Developer: Timothée Moulin (timothee.moulin@gmail.com)
-Tags: security, login, login form
-License: GNU Version 2
-Requires at least: 3.6
-Tested up to: 5.4.1
-Stable Tag: 2.0.0
-PHP version: > 5.6, tested up to 7.4
+- Developer (v1): Michael VanDeMar (michael@endlesspoetry.com)
+- Developer: Timothée Moulin (timothee.moulin@gmail.com)
+- Tags: security, login, login form
+- License: GNU Version 2
+- Requires at least: 3.6
+- Tested up to: 5.4.1
+- Stable Tag: 2.0.0
+- PHP version: > 5.6, tested up to 7.4
 
 Limits the number of login attempts from a given IP range within a certain time period.
 
