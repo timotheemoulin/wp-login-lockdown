@@ -1,4 +1,5 @@
-#Login LockDown
+# Login LockDown
+
 Developer: Michael VanDeMar (michael@endlesspoetry.com)
 Developer: Timothée Moulin (timothee.moulin@gmail.com)
 Tags: security, login, login form
@@ -10,7 +11,7 @@ PHP version: > 5.6, tested up to 7.4
 
 Limits the number of login attempts from a given IP range within a certain time period.
 
-##Description
+## Description
 
 Login LockDown records the IP address and timestamp of every failed login attempt. If more than a 
 certain number of attempts are detected within a short period of time from the same
@@ -19,7 +20,7 @@ This helps to prevent brute force password discovery. Currently the plugin defau
 to a 1 hour lock out of an IP block after 3 failed login attempts within 5 minutes. This can be modified
 via the Options panel. Administrators can release locked out IP ranges manually from the panel.
 
-##Installation
+## Installation
 
 1. Extract the zip file into your plugins directory into its own folder.
 2. Activate the plugin in the Plugin options.
@@ -27,7 +28,7 @@ via the Options panel. Administrators can release locked out IP ranges manually 
 
 Enjoy.
 
-##Change Log
+## Change Log
 
 - ver. 2.0.0 14-May-2020
     - code refactor and follow some WP CS convention
