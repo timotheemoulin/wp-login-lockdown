@@ -1,0 +1,17 @@
+{
+    "name": "timwp/login-lockdown",
+    "description": "Login LockDown",
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Timothée Moulin",
+            "email": "timothee.moulin@gmail.com"
+        }
+    ],
+    "version": "2.0.0",
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=5.6"
+    }
+}
