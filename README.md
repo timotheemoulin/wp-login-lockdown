@@ -33,6 +33,10 @@ Enjoy.
 - ver. 2.0.0 14-May-2020
     - code refactor and follow some WP CS convention
     - add French translation
+    - fix plugin installation process
+        - https://wordpress.org/support/topic/possible-problem-related-to-login-lockdown/
+        - https://wordpress.org/support/topic/no-activation-on-windows-solved/
+        - https://wordpress.org/support/topic/activate-bug-under-windows/
 - ver. 1.8.1 30-Sep-2019
     - adding missing ./languages folder
 - ver. 1.8 30-Sep-2019
