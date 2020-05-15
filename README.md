@@ -1,6 +1,6 @@
 # Login LockDown
 
-- Developer (v1): Michael VanDeMar (michael@endlesspoetry.com)
+- Developer (v1): [Login LockDown on WordPress.org](https://fr.wordpress.org/plugins/login-lockdown/)
 - Developer: Timothée Moulin (timothee.moulin@gmail.com)
 - Tags: security, login, login form
 - License: GNU Version 2
